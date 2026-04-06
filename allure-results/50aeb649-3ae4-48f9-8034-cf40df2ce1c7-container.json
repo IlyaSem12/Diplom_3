@@ -1,0 +1,1 @@
+{"uuid": "0b405b82-c20b-4f15-a06e-2e89a2e7b4c8", "children": ["12f71fdc-91a0-4fff-be2b-8ff09819f513"], "befores": [{"name": "login_page", "status": "passed", "steps": [{"name": "Ожидаем загрузку формы \"Вход\"", "status": "passed", "start": 1775434590806, "stop": 1775434590819}], "start": 1775434590252, "stop": 1775434590819}], "start": 1775434590252, "stop": 1775434590912}
