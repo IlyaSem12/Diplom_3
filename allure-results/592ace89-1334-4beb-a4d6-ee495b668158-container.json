@@ -1,0 +1,1 @@
+{"uuid": "06f6c36d-c8d4-42af-b6bc-7a8c00851123", "children": ["7cd80697-7d6e-4b9a-be67-83fa48651ccb"], "befores": [{"name": "profile_page", "status": "passed", "steps": [{"name": "Ожидаем загрузку профиля", "status": "passed", "start": 1775434652347, "stop": 1775434652866}], "start": 1775434652282, "stop": 1775434652866}], "start": 1775434652282, "stop": 1775434653998}
